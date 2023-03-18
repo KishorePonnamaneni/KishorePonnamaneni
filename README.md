@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KishorePonnamaneni
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Salesforce
+- 🌱 I’m currently learning Database
 - 💞️ I’m looking to collaborate on GITHUB
 - 📫 How to reach me ponnamanenikishore@gmail.com
 
